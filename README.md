@@ -1,7 +1,7 @@
 <div align=center>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="200" height="200" />
   <div>
-    <a href="www.linkedin.com/in/hannah-choi-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+    <a href="http://www.linkedin.com/in/hannah-choi-developer" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
     <a href="mailto:hannahchoi1031@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
 </div><br>
